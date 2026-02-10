@@ -1,5 +1,4 @@
 # Spartan6-DSP48A1
-🔹 Project 1: Spartan-6 DSP48A1 Design
 
 This project focused on designing a DSP48A1, a fundamental arithmetic block used in FPGA-based DSP and high-performance digital systems (e.g., signal processing).
 
